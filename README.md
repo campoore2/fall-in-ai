@@ -15,8 +15,8 @@ Ping Pong game
 | Button input changes the output text on the screen  |  north |  character goes north in the game |
 | If the input takes you off the screen then it return and "error" and doesn't move you  |  north | "you ran into a wall and cannot move farther"   |
 |  Pick up items/interact with computer AI |   |   |
-| fight dragon or open locked door  |   |   |
-
+| Fight an enemy | Fight  |  Current Health = -5 |
+| Open a locked door  |   |   |   |
 
 
 ## Setup/Installation Requirements
